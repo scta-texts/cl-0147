@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>0147 - (1) OMnes curatos, qui ad hanc synodum non venerunt, se mandato patris domini episcopi AEduensis excusatos habentes, abbates, priores, archidiaconos, archipresbyteros, ceterosque qui venire tenentur ad praesentem synodum, et non venerint, nec se legitime excusaverint, nisi de licentia potestatem habentes super hoc remanserint, contumaces reputamus.</title>
+        <author>Anonymous</author>
+        <editor>Rowan</editor>
+        <!-- 
+          
+          Record ID: 0147
+          Date: 1323
+          Location: Autun
+          Source: Martene, Thesaurus, IV, cols. 500-503
+          
+          Transcribed by: Different Hand Ltd
+          Date Started: 19 Dec 2016
+          Date Finished: 1 Feb 2017
+          Reviewed RWD: 4 Feb 2017
+          Problems or Queries:
+          
+          Notes:
+        -->
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>0147 - (1) OMnes curatos, qui ad hanc synodum non venerunt, se mandato patris domini episcopi AEduensis excusatos habentes, abbates, priores, archidiaconos, archipresbyteros, ceterosque qui venire tenentur ad praesentem synodum, et non venerint, nec se legitime excusaverint, nisi de licentia potestatem habentes super hoc remanserint, contumaces reputamus.</title>
+          <date when="2014-04-14">April 04, 2014</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority/>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="T4" n="thesIV1717">Martene, Thesaurus, IV, cols. 500-503</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-04-14" status="draft" n="0.0.0">
+          <p>File Started for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      
+      <div xml:id="starts-on">
+        <pb ed="#T4" n="250"/>
+        <cb ed="#T4" n="b"/> <!-- col 500 -->
+      </div>
+    </front>
+    <body>
+      <div xml:id="cl-0147-1">
+        <head xml:id="cl-0147-1-Hd1e100">(1) OMnes curatos, qui ad hanc synodum non venerunt, se mandato patris domini episcopi AEduensis excusatos habentes, abbates, priores, archidiaconos, archipresbyteros, ceterosque qui venire tenentur ad praesentem synodum, et non venerint, nec se legitime excusaverint, nisi de licentia potestatem habentes super hoc remanserint, contumaces reputamus.</head>
+        <p xml:id="cl-0147-1-d1e103">
+          (1) OMnes curatos, qui ad hanc synodum non venerunt, se mandato patris domini episcopi AEduensis excusatos habentes, abbates, priores, archidiaconos, archipresbyteros, ceterosque qui venire tenentur ad praesentem synodum, et non venerint, nec se legitime excusaverint, nisi de licentia potestatem habentes super hoc remanserint, contumaces reputamus. 
+        </p>
+        <p xml:id="cl-0147-1-d1e106">
+          (2) Item, praecipimus sub excommunicationis poena, ut quilibet curatus statuta synodalia et provincialia habeat et saepe studeat in eisdem. 
+        </p>
+        <p xml:id="cl-0147-1-d1e109">
+          (3) Monemus insuper sub excommunicationis poena, ut omnes curati in suis faciant ecclesiis residentiam personalem, prout de jure tenentur. 
+        </p>
+<p xml:id="cl-0147-1-d1e112">
+  (4) Inhibemus siquidem curatis omnibus, ne laicalia officia, praeposituras scilicet, et baillivias vel consimilia dominiorum temporalium aliquatenus exercere praesumant, nec aliis officiis ordinem suum non decentibus sese immisceant quoquomodo. 
+        </p>
+<p xml:id="cl-0147-1-d1e116">
+  (5) Omnes usurarios et concubinarios manifestos excommunicatos denuntiamus, et praecipimus palam et publice nuntiari: inhibentes omnibus sacerdotibus, ne in domo sua occasione quacumque mulierem aliquam teneant, de qua sinistra suspicio habeatur, et ne officia publica exerceant, seu teneant tabernas. 
+        </p>
+<p xml:id="cl-0147-1-d1e119">
+  (6) Item, inhibemus personis omnibus ecclesiasticis, ne super actionibus ad forum ecclesiasticum spectantibus respondeant coram judice saeculari. 
+        </p>
+<p xml:id="cl-0147-1-d1e122">
+  (7) Item, inhibemus omnibus nostris subditis, ne litteras aliquas derogatorias praesumant exequi absque nostro speciali mandato. 
+        </p>
+<p xml:id="cl-0147-1-d1e125">
+  (8) Inhibemus etiam omnibus curatis et aliis quibuscumque, mandata judicum sedis apostolicae aliquatenus exequantur, nisi prius facta fidei de rescripto et commissione ac copia partis citandae, si petierit, suis sumtibus et expensis. 
+        </p>
+<p xml:id="cl-0147-1-d1e128">
+  (9) Item, inhibemus ne commissarius aliquis, quantacumque fulgeat dignitate, litteras absolutorias aut etiam de visu dare praesumat, nec aliqua remittere de his quae sibi denuntiata fuerint quoquo modo. 
+        </p>
+<p xml:id="cl-0147-1-d1e131">
+  (10) Omnes qui praecepta monitionis et inhibita hujusmodi vel aliqua eorumdem facere praesumserint, excommunicationi decernimus subjacere. 
+        </p>
+<p xml:id="cl-0147-1-d1e135">
+  (11) Item, curationes generales deinceps fieri prohibemus: praecipientes curatis omnibus et eorum loca tenentibus ne easdem exsequantur. 
+        </p>
+<p xml:id="cl-0147-1-d1e138">
+  (12) Item, praecipimus archipresbyteris et loca tenentibus eorum, ut ecclesias rectorum non residentium in eisdem cum jure et pertinentia earumdem, et eorum qui infra annum a tempore provisionis sibi factae ad sacerdotium non fuerunt promoti, saisiant, et ad manum dicti domini episcopi et nostram ponant et teneant ac explectant, donec a nobis aliud receperint in mandatis. 
+        </p>
+<p xml:id="cl-0147-1-d1e141">
+  (13) Inhibemus insuper, ne de villa exeant absque nostro speciali mandato, eisdem districtissime injungentes, ut defectibus quos visitando reperierunt, nobis sub sigillis suis tradant et in scriptis. 
+        </p>
+<p xml:id="cl-0147-1-d1e144">
+  (14) Item, prohibemus archipresbyteris omnibus, ac loca tenentibus eorumdem sub excommunicationis sententia, quam in non parentes ferimus in iis scriptis, ne de causis cognoscant aliquibus, nisi de mandato dicti domini officialis AEduensis processerit speciali. 
+        </p>
+<p xml:id="cl-0147-1-d1e147">
+  (15) Item, praecipimus ut omnes excommunicatos, qui per annum sustinuerint sententiam, moneantur a suis rectoribus per tres dies dominicos in suis ecclesiis nominatim, ut infra tres menses se absolvi faciant et procurent: alioquin quod citentur ad synodum instantem super articulos fidei responsuri: cum merito habeantur ob hoc de fide suspecti: quorum citatorum nomina nobis in scriptis per singulos curatos ipsorum ad dictam synodum deferantur. 
+        </p>
+<p xml:id="cl-0147-1-d1e150">
+  (16) Item, cum ad nostrum spectet officium testamenta seu voluntates ultimas decedentium in civitate et dioecesi AEduensi exsecutioni facere demandare; praecipimus et mandamus, quod post testamenta seu voluntates ultimas quorumcumque decedentium, infra mensem a tempore obitus eorumdem ad nostram curiam deferantur, ut eas faciamus exsecutioni prout nostro incumbit officio demandare. 
+        </p>
+<p xml:id="cl-0147-1-d1e154">
+  (17) Item, inhibemus ne sacerdotes in ecclesiis suis seu cimiteriis communicare permittant, et quod nullos ad praedicandum in ecclesiis suis permittant, nisi si persona authentica; nec quaestores aliquos praedicare permittant, sed suarum tenorem exponere litterarum dumtaxat, nec ad hoc quaestores eosdem admitti volumus absque nostrarum testimonio litterarum. 
+        </p>
+<p xml:id="cl-0147-1-d1e157">
+  (18) Inhibemus si quidem rectoribus ecclesiarum omnibus, ne in ecclesiis suis et cimiteriis curias laicorum dominorum temporalium exerceri permittant: et si in eis violentia aliqua inferatur, nobis referant infra mensem, et providebimus de remedio opportuno. 
+        </p>
+<p xml:id="cl-0147-1-d1e160">
+  (19) Item, omnes illos qui nuntios aut executores litterarum nostrae curiae, aut easdem litteras deferentes, hac occasione capere, verberare, detinere, occultare, vel per carcerem mancipare, aut litteras ipsas memoratis personis auferre, seu eas rumpere, cancellare, aut aliter detinere quoquomodo, vel sic ablata celare, vel venienti seu venire volenti ad dictam curiam in aliquo molestare praesumserint, aut ut ista fiant procuraverint, vel facienti opem, consilium vel favorem duxerint adhibendum, quos in hiis scriptis excommunicamus, praecipimus excommunicatos palam et publice nuntiari per omnes curatos dioecesis AEduensis singulis diebus dominicis et festivis: injungentes insuper curatis eisdem, ut non eorumdem quos sciverint sic jurisdictioni ecclesiasticae clam vel palam, directe vel indirecte, publice vel occulte, vel alio quomodolibet perturbare, nobis in scriptis infra mensem mittere secrete procurent. 
+        </p>
+<p xml:id="cl-0147-1-d1e163">
+  (20) Item, inhibemus rectoribus omnibus, seu curatis, ne alienum parochianum admittant ad ecclesiastica sacramenta, item ea sibi ministrare praesumant, absque sui curati licentia speciali; et ne absolutiones sibi directas et in posterum dirigendas aliquibus, praeterquam suis vicariis exequandas committant, et ne vicarios recipiant, nisi fuerint per nos primitus approbati. 
+        </p>
+<p xml:id="cl-0147-1-d1e166">
+  (21) Item, omnes clandestina matrimonia contrahentes, et qui in eis intererunt, quos in his scriptis excommunicamus, praecipimus et mandamus excommunicatos publice nominari. 
+        </p>
+<p xml:id="cl-0147-1-d1e169">
+  (22) Item, praecipimus curatis omnibus et cuilibet eorumdem sub poena decem librarum Turonensium applicandarum domino episcopo, ut portitores litterarum nostrarum ubicumque requisiti fuerint secrete, procurent celeriter expedire, et in executione litterarum ipsarum deferant, donec portitor eamdem per unam leucam et amplius se poterit elongasse, ut quorumdam malitiis obvietur. 
+        </p>
+<p xml:id="cl-0147-1-d1e173">
+  (23) Item, praecipimus quod fontes cum sera clausi custodiantur, propter sortilegia et indumenta sacerdotalia, mappae, seu panni altaris commodius custodiantur. 
+        </p>
+<p xml:id="cl-0147-1-d1e176">
+  (24) Item, monemus omnes et singulos sacerdotibus idoneis peccata sua confiteri, talibus qui super hoc habeant potestatem. 
+        </p>
+<p xml:id="cl-0147-1-d1e179">
+  (25) Item, inhibemus sub poena excommunicationis officialibus et sigilliferis archidiaconorum, ac praecipimus ne concedant alicui litteras absolutorias vel deliberatorias matrimonium contrahere volenti sine auctoritate et licentia nostra speciali, cum istud ad nostram spectet jure ordinario potestatem. 
+        </p>
+<p xml:id="cl-0147-1-d1e182">
+  (26) Item, praecipimus sollicitatores monialium excommunicatos publice nunciari: monentes etiam abbatissas et priorissas earumdem, ne extra casus de jure expressos, concedant ipsis monialibus licentiam exeundi. 
+        Monemus etiam sub poena excommunicationis universos et singulos cujuslibet status, conditionis, vel dignitatis existant, ut nullus, nisi rationabili et manifesta causa existat, ac de illius ad quem pertinuerit licentia, ingrediatur ad easdem. 
+        Monentes nihilominus universos et singulos, ut nulli moniales, extra casus in jure expressos, a suis monasteriis exeuntes vel egressas scienter recipiant in suis domibus seu habitaculis vel receptent; nec earum pudicitiam violare, sed nec etiam attentare praesumant: quod redundaret in Christi earum sponsi injuriam et offensam. 
+        </p>
+<p xml:id="cl-0147-1-d1e185">
+  (27) Item, singula quae superius sunt expressa injungimus, aut una cum poenis superius declaratis districtius inhibemus sub poena decem librarum Turonensium domino episcopo applicandarum contra inobedientes et pro quolibet singulorum. 
+        </p>
+<p xml:id="cl-0147-1-d1e188">
+  (28) Monemus presbyterum, et ex causa omnes et singulos habentes litteras vel instrumenta ad jura episcopalia domini AEduensis super feodis, contractibus, et rebus aliis quibuscumque et ad jus episcopale ecclesiae AEduensis pertinentes, ut infra mensem a tempore notitiae continue numerandum dicto domino episcopo, seu vicariis suis, aut nobis restituant, notificent, et revelent: alioquin ipsos extunc in his scriptis excommunicamus, et per nos excommunicati publice nuntientur.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>
